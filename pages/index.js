@@ -8,7 +8,6 @@ const headingAnimation={
     x:"100vw",y:-10
   },
   ending:{fontSize:"50px",color:"#ff2994",x:100,y:-10, transition:{delay:1,duration:5,type:"spring",stiffness:120}},
-  
 }
 const index = () => {
   return (
